@@ -58,7 +58,7 @@ Project Manager - assembles and lead the software development team.
  - Discuss the project and it's requirement with the client and software developers.
  - Create blueprint for the project.
  - Tracking and communicating information regarding the project milestone.
- - Teliver the complete software to the client and regularly check its performance.
+ - Deliver the complete software to the client and regularly check its performance.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
